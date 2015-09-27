@@ -1,0 +1,17 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@fake.com",
+    "level": 100
+  },
+  {
+    "username": "joey",
+    "email": "joey.burgett@hotmail.com",
+    "level": 100
+  },
+  {
+    "username": "visitor",
+    "email": "visitor@mail.com",
+    "level": 5
+  }
+]
